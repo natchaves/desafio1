@@ -1,0 +1,57 @@
+h1{
+	text-align: center;
+}
+
+.all{
+background-color: lightwhite;
+    width: 300px;
+    border: 10px solid grey;
+    padding: 25px;
+    margin: 25px;
+}
+
+.botoes{
+	float: right;
+}
+
+ul.legenda{
+	display:inline-block;
+	list-style:none;  
+	width: 150px;
+
+}
+
+ul.legenda li{
+	display:inline-block;
+	font-size: 13px; 
+
+}
+
+h4.estado{
+	display:inline-block;
+	width: 30px;
+}
+.green{
+	background-color: green;	
+}
+
+.red{
+	background-color: red;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.grey{
+	background-color: grey;
+}
+
+
+span.marcador{
+border-radius: 10px;
+font-size: 11px;
+color: white; 
+padding: 1px 1px;
+margin-right: 4px;
+}
